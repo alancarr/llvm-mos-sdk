@@ -46,7 +46,7 @@ else()
 endif()
 
 add_subdirectory(common)
-add_subdirectory(acarr-sbc_v1)
+add_subdirectory(acarr-sbc1)
 add_subdirectory(atari2600-common)
 add_subdirectory(atari2600-4k)
 add_subdirectory(atari2600-3e)
